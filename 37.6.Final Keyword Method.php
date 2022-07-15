@@ -5,7 +5,7 @@ class Fruit {
     }
 }
 
-class Stawberry extends Fruit {
+class Strawberry extends Fruit {
     // will result in error
     public function intro() {
 
